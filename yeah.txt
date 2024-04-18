@@ -3,3 +3,5 @@ new file!
 file 1!
 
 file 3!
+
+file 2!
